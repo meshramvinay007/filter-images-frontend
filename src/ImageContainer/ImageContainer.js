@@ -1,6 +1,4 @@
-import React, { useEffect, useState } from "react";
 import "./ImageContainer.css";
-import axios from "axios";
 import Loading from "../Loading/Loading";
 
 const ImageContainer = ({
